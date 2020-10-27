@@ -1,0 +1,61 @@
+body{
+    background-color: burlywood;
+}
+
+#nav-name {
+    font-family: 'Orbitron', sans-serif;
+}
+
+.nav-link {
+    font-family: 'Orbitron', sans-serif;
+}
+
+img {
+    width: 300px;
+    height: 150px;
+}
+#page-container {
+    min-height: calc(
+      100vh - 75px
+    ); 
+  }
+.circle_image {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+h1{
+    font-family: 'Orbitron', sans-serif;
+}
+
+h3{
+    font-family: 'Orbitron', sans-serif;
+}
+p{
+    font-family: 'Patua One', cursive;
+    font-size: 1.2em;
+}
+
+.portfolio-cards {
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+}
+
+.contact > button {
+    background-color: burlywood;
+    border-radius: 5px;
+    border: 3px solid black;
+    padding: 10px;
+    margin: 5px;
+    width: 130px;
+}
+
+#resume-btn {
+    text-align: center;
+    padding-bottom: 20px;
+  }
+
+  
